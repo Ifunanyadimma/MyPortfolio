@@ -22,7 +22,7 @@ const skillCategories = [
     number: "04",
     title: "Tools & Platforms",
     description: "Development, collaboration and deployment tools.",
-    skills: ["Git", "GitHub", "Vite", "Netlify", "npm"],
+    skills: ["Git", "GitHub", "Vite", "Netlify", "Vercel", "npm"],
   },
   {
     number: "05",
